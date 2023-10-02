@@ -18,7 +18,7 @@ Welcome to the Stock Prediction Model using LSTM repository! This project utiliz
 - Visualizations and analysis of results.
 - Easy-to-use Jupyter notebooks for experimentation.
 
-## Preview Images
+## Preview
 ![Screenshot 2023-09-30 231222](https://github.com/Jinesh3578/Stock-prediction-Model-using-LSTM/assets/114583066/7ae9ecf6-cae2-4006-b010-f07fa44f3da4)
 ![Screenshot 2023-09-30 231306](https://github.com/Jinesh3578/Stock-prediction-Model-using-LSTM/assets/114583066/f3a3605b-56ae-43da-a7b4-65959b246c59)
 
